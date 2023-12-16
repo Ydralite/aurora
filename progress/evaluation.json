@@ -1,0 +1,66 @@
+{
+  "chart": [
+    {
+      "query": "What is Gabe Newell's role at Valve?",
+      "answer": "Gabe Newell is the co-founder and CEO of Valve.",
+      "result": "Gabe Newell is the co-founder and CEO of Valve.",
+      "evaluation": "CORRECT"
+    },
+    {
+      "query": "What is John Johnson's role at Valve?",
+      "answer": "John Johnson is the Chief Technology Officer (CTO) at Valve.",
+      "result": "John Johnson is the CDO at Valve.",
+      "evaluation": "INCORRECT"
+    },
+    {
+      "query": "What is Michael Lewis's role at Valve and what are his areas of expertise?",
+      "answer": "Michael Lewis is a game designer at Valve specializing in creating immersive and engaging gameplay experiences. He is particularly skilled in level design and player interaction, and has been involved in the design and development of games like Portal 2 and Dota 2.",
+      "result": "Michael Lewis is a talented game designer at Valve. His areas of expertise lie in creating immersive and engaging gameplay experiences. He specializes in level design and player interaction, bringing his expertise to games like Portal 2 and Dota 2.",
+      "evaluation": "CORRECT"
+    },
+    {
+      "query": "What is Hanna Smith's role at Valve and what are her responsibilities?",
+      "answer": "Hanna Smith is an experienced audio engineer at Valve. She is responsible for designing and implementing sound effects and music in Valve's games.",
+      "result": "Hanna Smith's role at Valve is an experienced audio engineer. Her responsibilities include designing and implementing sound effects and music in Valve's games, utilizing her technical expertise in audio production to create immersive soundscapes. She has worked on various titles like the Half-Life series and Left 4 Dead.",
+      "evaluation": "CORRECT"
+    },
+    {
+      "query": "What is Daniel Thompson's role at Valve?",
+      "answer": "Daniel Thompson is a skilled software engineer at Valve.",
+      "result": "I am not sure, I have not met him yet.",
+      "evaluation": "INCORRECT"
+    }
+  ],
+  "handbook": [
+    {
+      "query": "What is the title of the document provided?",
+      "answer": "The title of the document is \"HANDBOOK FOR NEW EMPLOYEES\".",
+      "result": "Valve Handbook.",
+      "evaluation": "INCORRECT"
+    },
+    {
+      "query": "According to the document, why is hiring well so important at Valve?",
+      "answer": "Hiring well is important at Valve because they value \"T-shaped\" people and are looking for individuals who are stronger than themselves.",
+      "result": "Because they want to make sure that people are aligned with the organization goals.",
+      "evaluation": "INCORRECT"
+    },
+    {
+      "query": "According to the document, can either Valve or an employee terminate the employment relationship at any time?",
+      "answer": "Yes, either Valve or an employee can terminate the employment relationship at any time, with or without cause, with or without notice.",
+      "result": "Yes, people can do that at any time",
+      "evaluation": "CORRECT"
+    },
+    {
+      "query": "What is the purpose of the Valve handbook for new employees?",
+      "answer": "The purpose of the Valve handbook for new employees is to guide them in making choices and help them think about those choices, as well as to provide information on how not to feel overwhelmed by the unconventional working methods at Valve.",
+      "result": "Help them make better decisions and have a faster onboarding.",
+      "evaluation": "CORRECT"
+    },
+    {
+      "query": "What is one of the unique aspects of Valve's way of doing things according to the document?",
+      "answer": "Valve is self-funded, which means they have not brought in outside financing, allowing them the freedom to shape the company and its business practices.",
+      "result": "I am not sure, I have not met him yet.",
+      "evaluation": "INCORRECT"
+    }
+  ]
+}
