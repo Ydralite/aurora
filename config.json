@@ -1,8 +1,8 @@
 {
 "AZURE_OPENAI_ENDPOINT": "https://openai-resource-team-4-france.openai.azure.com/",
-"AZURE_OPENAI_KEY": "a3835264708e475f8a2faf4b29edb3c2",
+"AZURE_OPENAI_KEY": "REDACTED",
 "AZURE_ENGINE_NAME": "gpt35-team-4",
-"AZURE_ADA_KEY": "88c64385e2c64df48675cc77d317ff81",
+"AZURE_ADA_KEY": "REDACTED",
 "AZURE_ADA_ENDPOINT": "https://openai-resource-team-4-east-us.openai.azure.com/",
 "AZURE_ADA_NAME": "ada002-team-4"
 }
